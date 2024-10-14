@@ -1,0 +1,12 @@
+com\y_s\gestionhotel\utils\dbConnection.class
+com\y_s\gestionhotel\entites\Client.class
+com\y_s\gestionhotel\vue\AdminLogin.class
+com\y_s\gestionhotel\services\ChambreService.class
+com\y_s\gestionhotel\services\ReservationService.class
+com\y_s\gestionhotel\GestionHotel.class
+com\y_s\gestionhotel\vue\AdminDashboard.class
+com\y_s\gestionhotel\entites\Chambre.class
+com\y_s\gestionhotel\vue\AdminIndex.class
+com\y_s\gestionhotel\services\AddClient.class
+com\y_s\gestionhotel\entites\Reservation.class
+com\y_s\gestionhotel\services\ClientService.class
